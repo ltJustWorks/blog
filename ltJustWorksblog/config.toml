@@ -1,0 +1,7 @@
+baseURL = 'https://ltjustworks.github.io/'
+relativeURLs = 'True'
+languageCode = 'en-us'
+title = 'ltJustWorks Blog'
+theme = "etch"
+
+params.assets.disableFingerprinting = 'true'
