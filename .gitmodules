@@ -1,0 +1,7 @@
+[submodule "ltJustWorksblog/public"]
+	path = ltJustWorksblog/public
+	url = https://github.com/ltJustWorks/ltJustWorks.github.io.git
+	branch = main
+[submodule "ltJustWorksblog/themes/etch"]
+	path = ltJustWorksblog/themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
