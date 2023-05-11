@@ -12,6 +12,8 @@ Descriptions of the projects I'm currently working on.
 - [ ] Fix issue with last set data saving
 - [ ] Improve app styling
 - [ ] Redesign app logo and banner
+    - [x] App logo
+    - [ ] Banner
 - [ ] Improve app store listing
 - [ ] Images in exercise descriptions
 
