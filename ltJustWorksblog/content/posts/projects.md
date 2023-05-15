@@ -9,13 +9,14 @@ Descriptions of the projects I'm currently working on.
 ## Gym Tracking App
 - [x] Exercise search
 - [x] Exercise progress charts
-- [ ] Fix issue with last set data saving
-- [ ] Improve app styling
-- [ ] Redesign app logo and banner
-    - [x] App logo
-    - [ ] Banner
-- [ ] Improve app store listing
+- [x] Fix issue with last set data saving
+- [x] Redesign app logo and banner
+- [x] Improve app store listing
+- [ ] Remove sets
+- [ ] Edit templates
+- [ ] Exercise history pagination, search
 - [ ] Images in exercise descriptions
+- [ ] Improve app styling
 
 ## EEG Sleep Tracker
 - Conceptual
